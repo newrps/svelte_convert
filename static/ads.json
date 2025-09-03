@@ -1,0 +1,26 @@
+{
+  "side": [
+    {
+      "id": "left-160x600",
+      "enabled": true,
+      "position": "left",
+      "width": 160,
+      "minWidth": 1280,
+      "snippet": "<a href=\"https://link.coupang.com/a/cOA8tV\" target=\"_blank\" referrerpolicy=\"unsafe-url\"><img src=\"https://image3.coupangcdn.com/image/affiliate/banner/dd7ad52b61839a7de694cb3a84e4b363@2x.jpg\" alt=\"곰곰 무항생제 신선한 대란, 30구, 1개\" width=\"120\" height=\"240\"></a>"
+    },
+    {
+      "id": "right-160x600",
+      "enabled": true,
+      "position": "right",
+      "width": 160,
+      "minWidth": 1280,
+      "snippet": "<ins class='adsbycoupang' data-ad-type='banner' data-ad-img='img_160x600' data-ad-unit='UNIT_ID' data-ad-link-unit-id='LINK_ID' data-ad-order='5' data-ad-border='false'></ins>"
+    }
+  ],
+  "mobile": {
+    "enabled": true,
+    "maxWidth": 768,
+    "closeable": true,
+    "snippet": "<ins class='adsbycoupang' data-ad-type='banner' data-ad-img='img_320x100' data-ad-unit='UNIT_ID_M' data-ad-link-unit-id='LINK_ID_M' data-ad-order='5' data-ad-border='false'></ins>"
+  }
+}
