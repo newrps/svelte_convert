@@ -79,6 +79,18 @@
 <svelte:head>
   <title>단위 변환기</title>
   <meta name="description" content="빠르고 정확한 단위 변환을 위한 도구" />
+  <meta name="keywords" content="단위, 길이, 온도, 면적, 무게, 부피" />
+  <meta name="robots" content="index, follow" />
+  
+  <!-- Open Graph (Facebook, 카카오톡 등) -->
+  <meta property="og:title" content="단위변환검색" />
+  <meta property="og:description" content="단위변환을 쉽게 할 수 있는 사이트입니다." />
+  <meta property="og:image" content=""/>
+  <meta property="og:url" content="https://img.zam.kr/images/convert_og.png" />
+  <meta property="og:type" content="website" />
+   
+  <!-- 네이버 검색 최적화 -->
+  <meta name="naver-site-verification" content="c1ad6ccdd113bae1e86d224d52a50be29c3d43e9" />
 </svelte:head>
 
 <div class="container">
