@@ -85,8 +85,8 @@
   <!-- Open Graph (Facebook, 카카오톡 등) -->
   <meta property="og:title" content="단위변환검색" />
   <meta property="og:description" content="단위변환을 쉽게 할 수 있는 사이트입니다." />
-  <meta property="og:image" content=""/>
-  <meta property="og:url" content="https://img.zam.kr/images/convert_og.png" />
+  <meta property="og:image" content="https://img.zam.kr/images/convert_og.png"/>
+  <meta property="og:url" content="https://img.zam.kr/" />
   <meta property="og:type" content="website" />
    
   <!-- 네이버 검색 최적화 -->
